@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+    color: black;
+}
+header{
+    background-color: white;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 10px;
+    gap: 20px;
+}
+.logo img{
+    height: 70px;
+    width: 70px;
+}
+.logo h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar {
+    background-color: white;
+    
+}
+.navbar nav{
+    margin: auto;
+    
+}
+.navbar a {
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+}
+.nav {
+    background-color: white;
+    padding: 10px;
+}
+.nav button{
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
