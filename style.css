@@ -55,3 +55,47 @@ header{
     border-radius: 10px;
     background-color: white;
 }
+main{
+    background-color: white;
+}
+.hero {
+    display: flex;
+    justify-content: space-between;
+}
+.heroh1{
+    background-color: white;
+    padding: 30px;
+    margin: 20px;
+    width: 50%;
+    text-align: center;
+    
+
+}
+.heroh1 h2 {
+       font-size: 50px;
+       margin: 30px;
+}
+.heroh1 button{
+    width: 200px;
+    height: 50px;
+    border: 3px solid aqua;
+    border-radius: 10px;
+    margin: 50px;
+    background-color: white;
+}
+.heroh2{
+    background-color: white;
+    padding: 30px;
+    margin: 20px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.heroh2 h3{
+    font-size: 50px;
+}
+.heroh2 ul{
+    font-size: 30px;
+}
